@@ -33,7 +33,7 @@ Make sure the following R packages are installed:
 ```r
 install.packages("adegenet")
 install.packages("poppr")
-
+```
 
 Running the Analysis
 Clone this repo or download the files.
@@ -42,7 +42,7 @@ Set your working directory in DAPC_analysis.R to the folder containing the data 
 
 Run the R script using RStudio or R console.
 
-Results include:
+## Results include:
 
 Clustering summaries
 
@@ -54,10 +54,10 @@ Nei's distance matrices
 
 Mantel test for IBD
 
-References
+## References
 Jombart, T., Devillard, S., & Balloux, F. (2010). Discriminant analysis of principal components: a new method for the analysis of genetically structured populations. BMC Genetics, 11(1), 94.
 
 Kamvar, Z. N., Tabima, J. F., & Grünwald, N. J. (2014). Poppr: an R package for genetic analysis of populations with clonal, partially clonal, and/or sexual reproduction. PeerJ, 2, e281.
 
-License
+## License
 This project is released under the MIT License.
