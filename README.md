@@ -1,3 +1,7 @@
+# Thesis can be located here: 
+https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=ohiou1628858064984242
+
+
 # Population Genetic Analyses with DAPC in R
 
 This repository contains R code for conducting population structure and isolation-by-distance analyses using **Discriminant Analysis of Principal Components (DAPC)** and **Nei’s genetic distance**. These analyses support a thesis project examining population differentiation in bobcats.
