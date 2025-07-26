@@ -1,25 +1,5 @@
-/.RData
 /.Rhistory
-/.Rproj.user
-/Bobcat_2pop.txt.DAT
-/Bobcat_2_1pop.txt
-/Bobcat_2_2pop.txt
-/Bobcat_3pop.csv
-/Bobcat_3pop.DAT
-/Bobcat_3pop.txt.DAT.txt
-/comp2~2.csv
-/Coordinates for IBD.csv
-/DAPC Alleles only.csv
-/DAPC comment out.R
-/DAPC.R
-/DAPC.Rproj
-/dapc2.2 membership.csv
-/dapc2.2.csv
-/dapc3.2 membership CORRECTED.csv
-/dapc3.2 membership.csv
-/Mantel test.R
-/membership.csv
-/nei_coord.csv
-/nei_coord2.csv
-/Pop.csv
-/samp_names.csv
+/.RData
+/.DAPC comment out.R
+/.DAPC.R 
+/.DAPC.Rproj
